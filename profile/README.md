@@ -1,12 +1,22 @@
-## Hi there 👋
 
-<!--
+# Cercle Of Masquerade
 
-**Here are some ideas to get you started:**
+"The Circle of Masquerade" is an intriguing name that immediately evokes a mysterious and deceptive atmosphere.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
+![Logo](https://i.pinimg.com/564x/9a/35/6a/9a356afae3636ee23e9b588ba7dc6332.jpg)
+
+
+## Authors
+
+- [@VyOk](https://www.github.com/lhay9)
+- [@MATIFIREofficiel](https://github.com/MATIFIREofficiel)
+- [@BigT-Dev](https://github.com/BigT-Dev)
+- [@Jibea](https://www.github.com/Jibea)
+
+## Feedback
+
+If you have any feedback, please reach out to us at lylian.hay@epitech.eu
+
